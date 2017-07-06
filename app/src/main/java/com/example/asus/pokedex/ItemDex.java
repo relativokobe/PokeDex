@@ -59,6 +59,7 @@ public class ItemDex extends Fragment {
         setView(view);
 
         kobe = true;
+        Toast.makeText(getContext(), "Sir sa ubos mo una og load sa effects huhu ngano mani", Toast.LENGTH_LONG).show();
 
         return view;
     }
