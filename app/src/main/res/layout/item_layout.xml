@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     app:cardElevation="10dp"
-    android:background="#FFEB3B"
-    android:elevation="20dp">
-    <RelativeLayout
+    android:layout_marginTop="10dp"
+    >
 
+    <RelativeLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-        android:background="#FFEB3B"
+
         >
 
     <ImageView
